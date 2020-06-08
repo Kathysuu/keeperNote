@@ -6,10 +6,6 @@
   "dependencies": {
     "@material-ui/core": "^4.10.1",
     "@material-ui/icons": "^4.9.1",
-    "body-parser": "^1.19.0",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mongoose": "^5.9.18",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.2.0"
@@ -33,7 +29,7 @@
     "type": "git",
     "url": "git+https://github.com/Kathysuu/keeperNote.git"
   },
-  "author": "",
+  "author": "Kathy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kathysuu/keeperNote/issues"
